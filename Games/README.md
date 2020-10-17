@@ -1,1 +1,1 @@
-# Add all the games in this folder
+# Add all your games in this folder
